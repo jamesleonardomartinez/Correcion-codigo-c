@@ -1,0 +1,5 @@
+﻿C:\Users\James\Documents\Correcciones para Metricas\LaMalaCalculadora (1) (1)\LaMalaCalculadora\Program.cs
+C:\Users\James\Documents\Correcciones para Metricas\LaMalaCalculadora (1) (1)\LaMalaCalculadora\.gitignore
+C:\Users\James\Documents\Correcciones para Metricas\LaMalaCalculadora (1) (1)\LaMalaCalculadora\AUTO_PROMPT.txt
+C:\Users\James\Documents\Correcciones para Metricas\LaMalaCalculadora (1) (1)\LaMalaCalculadora\history.txt
+C:\Users\James\Documents\Correcciones para Metricas\LaMalaCalculadora (1) (1)\LaMalaCalculadora\README.md

@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "5.0.0.0",
+        "fileVersion": "5.0.0-2.25523.111 (b0f34d51)",
+        "semanticVersion": "5.0.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 29,
+                  "endLine": 79,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 13,
+                  "endLine": 83,
+                  "endColumn": 18
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 17,
+                  "endLine": 91,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 17,
+                  "endLine": 97,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 17,
+                  "endLine": 103,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 17,
+                  "endLine": 113,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 17,
+                  "endLine": 118,
+                  "endColumn": 21
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 17,
+                  "endLine": 128,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 21,
+                  "endLine": 132,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 139,
+                  "startColumn": 17,
+                  "endLine": 139,
+                  "endColumn": 21
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 21,
+                  "endLine": 146,
+                  "endColumn": 22
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/James/Documents/Correcciones%20para%20Metricas/LaMalaCalculadora%20(1)%20(1)/LaMalaCalculadora/Program.cs",
+                "region": {
+                  "startLine": 156,
+                  "startColumn": 17,
+                  "endLine": 156,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "10": "+2 (incl 1 for nesting)",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+2 (incl 1 for nesting)",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+1",
+              "6": "+2 (incl 1 for nesting)",
+              "7": "+3 (incl 2 for nesting)",
+              "8": "+1",
+              "9": "+2 (incl 1 for nesting)"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "This rule raises an issue when the code cognitive complexity of a function is above a certain threshold.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
