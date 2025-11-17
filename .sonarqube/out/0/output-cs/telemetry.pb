@@ -1,1 +1,0 @@
-ŒRvC:\Users\James\Documents\Correcciones para Metricas\LaMalaCalculadora (1) (1)\LaMalaCalculadora\BadCalc_VeryBad.csproj¢net8.0òCSharp12
