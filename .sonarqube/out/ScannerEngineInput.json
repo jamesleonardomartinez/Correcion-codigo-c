@@ -10,7 +10,7 @@
     },
     {
       "key": "sonar.scanner.bootstrapStartTime",
-      "value": "1763416177000"
+      "value": "1763416365000"
     },
     {
       "key": "sonar.projectKey",
@@ -87,6 +87,10 @@
     {
       "key": "sonar.host.url",
       "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.scm.provider",
+      "value": "git"
     },
     {
       "key": "sonar.visualstudio.enable",

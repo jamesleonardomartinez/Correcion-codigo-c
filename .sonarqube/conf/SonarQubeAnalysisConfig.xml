@@ -152,6 +152,7 @@
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">http://localhost:9000</Property>
+    <Property Name="sonar.scm.provider">git</Property>
   </LocalSettings>
   <ScannerOptsSettings />
   <AnalyzersSettings>

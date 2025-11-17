@@ -411,3 +411,7 @@ AUTO_PROMPT.txt
 *.db
 *.sqlite
 *.sqlite3
+
+# SonarQube
+.sonarqube/
+.sonar/
